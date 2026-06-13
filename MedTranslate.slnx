@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".env" />
+  </Folder>
+  <Project Path="MedTranslate.csproj" />
+</Solution>
