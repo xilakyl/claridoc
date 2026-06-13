@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MedTranslate.slnx
+/bin/Debug/net8.0
+/obj
+/Properties
+*.env
+/.vs/MedTranslate/CopilotIndices/18.7.1225.11805
